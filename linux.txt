@@ -1,0 +1,18 @@
+Key focus areas on Linux
+------------------------
+* linux file system : 15 different directories
+
+/	  			: root system, all the files system is present
+/root 			: this directory for the admin use
+/prathyush/home : every user will have a home directory,where user related configuration related fole are present
+/bin			: application related binary files will be present
+/var/log		: application that you use on the OS, will generate log. By default the logs will be present in this directory
+/opt			: opt = optional : stores optional binary files for application on the OS
+/etc			: OS configuration files (xml files,config files etc)
+/tmp			: tmp = temporary folder : temporary files
+
+Basic commands on linux OS
+--------------------------
+ls : list
+cd : change directory
+pwd: print working directory
